@@ -53,7 +53,7 @@ header {
 
 .logo {
     font-size: 3em;
-    color: #01161f;
+    color: #021e2b;
     user-select: none;
     
 }
@@ -84,7 +84,7 @@ header {
     transform: left;
     transform: scaleX(1);
 }
-.navbar .btnlogin-popup{
+.navbar .button{
     width: 130px;
     height: 50px;
     background: transparent;
@@ -98,7 +98,7 @@ header {
     margin-left:40px ;
     transition: .5s;
 }
-.navbar .btnlogin-popup:hover {
+.navbar .button:hover {
 background : #8fb8ca ;
 color: black;
 }
@@ -271,4 +271,4 @@ line-height: 1.5;
     font-size: 1.5rem;
     color: #01161f;
 
- }
+}
