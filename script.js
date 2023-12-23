@@ -1,3 +1,1 @@
-window.onload =function(){
-    document.querySelector("h1").style .color ="black";
-}
+alert("hello to my website");
